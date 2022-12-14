@@ -1,6 +1,7 @@
 # ABSA_ESG
 새싹 교육과정 멘토링, 속성기반 감성분석 모델
 
+</br>
 
 ## 1. ABSA
 
@@ -11,15 +12,10 @@
 모델 관련 논문과 코드를 같이 볼 수 있는 사이트
 > https://paperswithcode.com/
 
-(LSTM)
 Attention-based LSTM for Aspect-level Sentiment Classification
 > https://paperswithcode.com/paper/attention-based-lstm-for-aspect-level
 
-(BERT)
-BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
-> https://aclanthology.org/N19-1242.pdf
-> https://github.com/howardhsu/BERT-for-RRC-ABSA
-
+</br>
 
 ## 2. ESG
 
